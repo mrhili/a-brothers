@@ -1,0 +1,15 @@
+#main > section#top > .container > header > h2 {
+    color : white;
+}
+#main > section#top > .container > header > p {
+    color : white;
+}
+#main > section.dark a {
+
+    background-color: #42BFDD;
+}
+
+
+.margin-top-min{
+    margin-top: 50px;
+}
